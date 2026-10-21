@@ -14,6 +14,10 @@ A real-time collaborative editor where several people write on the same page wit
 
 Mock interviews split into the sections a real panel uses, like DSA, system design and behavioral. Each answer is graded against that section's rubric, and the run ends with per-section scores and a hire or no-hire call. React, Vite, Express, MongoDB, Gemini.
 
+**[Gridline](https://github.com/LovjyotSingh/Gridline)** · [live](https://gridline-pearl.vercel.app)
+
+A spreadsheet engine built from scratch, with no spreadsheet or grid library. A virtualized grid scrolls 10,000 rows by drawing only the cells on screen, a Pratt parser handles formulas with Excel's operator rules, and a dependency graph recalculates only the cells an edit affects, in topological order. React, TypeScript, Vite, Vitest.
+
 You can try a working example of each on my [portfolio](https://lovjyotsingh.github.io/#work). My DSA practice is in [Leetcode](https://github.com/LovjyotSingh/Leetcode).
 
 #### Contact
